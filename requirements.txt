@@ -1,0 +1,7 @@
+reservoirpy
+jupyter
+notebook
+matplotlib
+typer
+pandas
+tqdm
